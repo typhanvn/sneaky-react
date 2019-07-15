@@ -1,0 +1,15 @@
+.hero-title {
+  max-width: 480px;
+}
+.hero-carousel .owl-dots .owl-dot {
+  display: block;
+}
+.hero-carousel .owl-dots .owl-dot span {
+  width: 10px;
+  height: 10px;
+  margin: 7px 7px;
+  background: #d2d2d2;
+}
+.hero-carousel .owl-dots .owl-dot.active span {
+  background-color: #e51002;
+}
